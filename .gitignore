@@ -1,0 +1,9 @@
+# compiler output
+*.exe
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# editor folder
+.vscode/
